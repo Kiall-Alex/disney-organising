@@ -1,5 +1,4 @@
 const express = require('express')
-const pug = require("pug");
 const app = express()
 const port = 3000
 const path = require('node:path');
